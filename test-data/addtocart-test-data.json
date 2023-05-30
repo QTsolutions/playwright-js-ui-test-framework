@@ -1,0 +1,9 @@
+{
+    "registerUrl": "https://ecommerce-playground.lambdatest.io/index.php?route=account/register",
+    "loginurl"   : "https://ecommerce-playground.lambdatest.io/index.php?route=account/login",
+    "firstname"  : "Preksha",
+    "lastname"   : "vora",
+    "email"      : "jay.kapoor2@gmail.com",
+    "password"   : "abc@12345",
+    "telephone"  : "1234567890"
+}
